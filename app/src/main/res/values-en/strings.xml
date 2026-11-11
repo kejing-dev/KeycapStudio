@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" formatted="false">Keycap Studio</string>
+    <string name="tab_colorways" formatted="false">Colorways</string>
+    <string name="tab_palette" formatted="false">Palette</string>
+    <string name="tab_patterns" formatted="false">Patterns</string>
+    <string name="tab_material" formatted="false">Material &amp; sound</string>
+    <string name="tab_schemes" formatted="false">Schemes</string>
+    <string name="tab_settings" formatted="false">Settings</string>
+    <string name="scheme_untitled" formatted="false">Untitled scheme</string>
+    <string name="act_detail" formatted="false">Detail</string>
+    <string name="act_detail_off" formatted="false">Back to 1×</string>
+    <string name="act_rotate" formatted="false">Turn 90°</string>
+    <string name="act_undo" formatted="false">Undo</string>
+    <string name="act_redo" formatted="false">Redo</string>
+    <string name="act_mute" formatted="false">Mute</string>
+    <string name="act_unmute" formatted="false">Unmute</string>
+    <string name="layout_87" formatted="false">87 keys</string>
+    <string name="layout_104" formatted="false">104 keys</string>
+    <string name="random_set" formatted="false">Random set</string>
+    <string name="inspired_by" formatted="true">Inspired by %1$s</string>
+    <string name="cw_hint" formatted="false">Tap a card to swap the whole set. Not it? Tap another.</string>
+    <string name="cw_applied" formatted="true">Swapped to %1$s.</string>
+    <string name="page_of" formatted="true">Page %1$d of %2$d</string>
+    <string name="prev" formatted="false">Previous</string>
+    <string name="next" formatted="false">Next</string>
+    <string name="target" formatted="false">Paint target</string>
+    <string name="t_alphas" formatted="false">Alphas</string>
+    <string name="t_mods" formatted="false">Modifiers</string>
+    <string name="t_accents" formatted="false">Accents</string>
+    <string name="t_space" formatted="false">Space</string>
+    <string name="t_arrows" formatted="false">Arrows</string>
+    <string name="t_nav" formatted="false">Nav cluster</string>
+    <string name="t_numpad" formatted="false">Numpad</string>
+    <string name="t_frow" formatted="false">F row</string>
+    <string name="t_numrow" formatted="false">Number row</string>
+    <string name="t_case" formatted="false">Case</string>
+    <string name="t_all" formatted="false">All keys</string>
+    <string name="t_single" formatted="false">Single key</string>
+    <string name="hue" formatted="false">Hue</string>
+    <string name="sat" formatted="false">Saturation</string>
+    <string name="val" formatted="false">Brightness</string>
+    <string name="hex" formatted="false">HEX</string>
+    <string name="apply_color" formatted="false">Paint it</string>
+    <string name="legend_color" formatted="false">Legend color</string>
+    <string name="legend_follow" formatted="false">Follow set</string>
+    <string name="legend_auto" formatted="false">Auto contrast</string>
+    <string name="legend_custom" formatted="false">Custom</string>
+    <string name="gmk_classic" formatted="false">GMK classics (approx.)</string>
+    <string name="used_colors" formatted="false">In this scheme</string>
+    <string name="single_hint" formatted="false">Tap any key on the keyboard to paint it.</string>
+    <string name="single_accent_hint" formatted="false">Tap a key to move it in or out of the accents.</string>
+    <string name="single_paint" formatted="false">Paint</string>
+    <string name="single_accent" formatted="false">Accent</string>
+    <string name="done" formatted="false">Done</string>
+    <string name="numpad_only104" formatted="false">Numpad only on 104 keys</string>
+    <string name="style" formatted="false">Style</string>
+    <string name="st_solid" formatted="false">Solid</string>
+    <string name="st_gradient" formatted="false">Gradient</string>
+    <string name="st_themed" formatted="false">Themed</string>
+    <string name="st_side" formatted="false">Side print</string>
+    <string name="st_shine" formatted="false">Shine-through</string>
+    <string name="grad_dir" formatted="false">Direction</string>
+    <string name="gd_lr" formatted="false">Left→right</string>
+    <string name="gd_tb" formatted="false">Top→bottom</string>
+    <string name="gd_diag" formatted="false">Diagonal</string>
+    <string name="gd_radial" formatted="false">Radial</string>
+    <string name="end_a" formatted="false">Start color</string>
+    <string name="end_b" formatted="false">End color</string>
+    <string name="use_paint" formatted="false">Use current color</string>
+    <string name="th_dots" formatted="false">Dots</string>
+    <string name="th_stripes" formatted="false">Stripes</string>
+    <string name="th_sakura" formatted="false">Sakura</string>
+    <string name="th_pixel" formatted="false">Pixel</string>
+    <string name="th_stars" formatted="false">Starry night</string>
+    <string name="th_camo" formatted="false">Camo</string>
+    <string name="th_marble" formatted="false">Marble</string>
+    <string name="th_grid" formatted="false">Grid paper</string>
+    <string name="th_image" formatted="false">My picture</string>
+    <string name="import_image" formatted="false">Import picture</string>
+    <string name="import_image_hint" formatted="false">Put a jpg / png in Android/data/io.embodit.keycapstudio/files/import/, then tap Import.</string>
+    <string name="import_image_ok" formatted="false">Done. One picture across the board.</string>
+    <string name="import_none" formatted="false">No picture found in the folder.</string>
+    <string name="import_failed" formatted="false">Couldn\'t read that picture. Try another.</string>
+    <string name="side_hint" formatted="false">Legends move to the front face, tops stay clean.</string>
+    <string name="backlight" formatted="false">Backlight</string>
+    <string name="brightness" formatted="false">Brightness</string>
+    <string name="breathe" formatted="false">Breathing</string>
+    <string name="cap_material" formatted="false">Keycap material</string>
+    <string name="m_pbt" formatted="false">PBT matte</string>
+    <string name="m_abs" formatted="false">ABS gloss</string>
+    <string name="m_pc" formatted="false">Clear PC</string>
+    <string name="profile" formatted="false">Profile</string>
+    <string name="p_oem" formatted="false">OEM</string>
+    <string name="p_cherry" formatted="false">Cherry</string>
+    <string name="case_color" formatted="false">Case</string>
+    <string name="case_dark" formatted="false">Dark alu</string>
+    <string name="case_silver" formatted="false">Silver alu</string>
+    <string name="case_white" formatted="false">White</string>
+    <string name="case_custom" formatted="false">Custom</string>
+    <string name="switch_type" formatted="false">Switch</string>
+    <string name="sw_linear" formatted="false">Linear · red</string>
+    <string name="sw_tactile" formatted="false">Tactile · brown</string>
+    <string name="sw_clicky" formatted="false">Clicky · blue</string>
+    <string name="sw_topre" formatted="false">Topre</string>
+    <string name="sw_silent" formatted="false">Silent</string>
+    <string name="listen" formatted="false">Listen</string>
+    <string name="volume" formatted="false">Volume</string>
+    <string name="volume_pct" formatted="true">%1$d%%</string>
+    <string name="try_typing" formatted="false">Try a line</string>
+    <string name="tt_start" formatted="false">Start</string>
+    <string name="tt_stop" formatted="false">Stop</string>
+    <string name="tt_progress" formatted="false">Press the key that glows.</string>
+    <string name="tt_done" formatted="true">Done. %1$s s, %2$d presses.</string>
+    <string name="tt_s1" formatted="false">tian di xuan huang</string>
+    <string name="tt_s2" formatted="false">the quick brown fox</string>
+    <string name="tt_s3" formatted="false">1234567890</string>
+    <string name="scheme_name" formatted="false">Scheme name</string>
+    <string name="save" formatted="false">Save</string>
+    <string name="save_as" formatted="false">Save as new</string>
+    <string name="saved" formatted="true">Saved as \"%1$s\".</string>
+    <string name="saved_list" formatted="false">Saved schemes</string>
+    <string name="empty_list" formatted="false">Nothing saved yet. Tap Save when you like it.</string>
+    <string name="load" formatted="false">Load</string>
+    <string name="delete" formatted="false">Delete</string>
+    <string name="delete_confirm" formatted="true">Delete \"%1$s\"?</string>
+    <string name="cancel" formatted="false">Cancel</string>
+    <string name="confirm_delete" formatted="false">Delete</string>
+    <string name="loaded" formatted="true">Loaded \"%1$s\".</string>
+    <string name="export_card" formatted="false">Export card</string>
+    <string name="export_json" formatted="false">Export JSON</string>
+    <string name="import_json" formatted="false">Import JSON</string>
+    <string name="exported" formatted="true">Exported: %1$s</string>
+    <string name="export_again" formatted="false">Export again</string>
+    <string name="export_3d_hint" formatted="false">Want a 3D shot? Use the headset screenshot (power + volume down).</string>
+    <string name="json_imported" formatted="true">Imported \"%1$s\".</string>
+    <string name="json_none" formatted="false">No JSON found. Put one in Android/data/io.embodit.keycapstudio/files/import/ and try again.</string>
+    <string name="json_bad" formatted="false">Couldn\'t read that JSON. It isn\'t a scheme from this app.</string>
+    <string name="full_list" formatted="false">50 saved already. Delete one first.</string>
+    <string name="got_it" formatted="false">Got it</string>
+    <string name="saved_at" formatted="true">%1$s · %2$s</string>
+    <string name="language" formatted="false">Language</string>
+    <string name="lang_system" formatted="false">System</string>
+    <string name="lang_zh" formatted="false">中文</string>
+    <string name="lang_en" formatted="false">English</string>
+    <string name="default_tilt" formatted="false">Default tilt</string>
+    <string name="tilt_deg" formatted="true">%1$d°</string>
+    <string name="coach_again" formatted="false">Show the tips again</string>
+    <string name="reopen_panel" formatted="false">Reopen the panel</string>
+    <string name="reopen_hint" formatted="false">The panel reopens next to the keyboard.</string>
+    <string name="reset" formatted="false">Reset to default</string>
+    <string name="reset_confirm" formatted="false">Back to 87 keys + Olivia? Saved schemes stay.</string>
+    <string name="reset_do" formatted="false">Reset</string>
+    <string name="about" formatted="false">About</string>
+    <string name="about_text" formatted="true">Version %1$s. Colorways come from the open-source Keyboard Simulator (keysim, MIT). They are community approximations inspired by the GMK sets, not official codes. Cap geometry follows public OEM / Cherry profiles, 1u = 19.05 mm. Layouts are written in KLE format.</string>
+    <string name="exit_app" formatted="false">Exit app</string>
+    <string name="exit_confirm" formatted="false">Leaving? Your scheme is saved.</string>
+    <string name="exit_do" formatted="false">Exit</string>
+    <string name="open_panel" formatted="false">Open panel</string>
+    <string name="coach_1" formatted="false">Pinch any key. Hear that? Linear switch.</string>
+    <string name="coach_2" formatted="false">Swap colorways on the panel. Pick Single key, then tap a key to paint it.</string>
+    <string name="coach_3" formatted="false">Drag the front edge to turn it, up and down to tilt. Set the default tilt in Settings.</string>
+    <string name="coach_next" formatted="false">Next</string>
+    <string name="coach_skip" formatted="false">Skip</string>
+    <string name="coach_title" formatted="true">Tip %1$d of 3</string>
+    <string name="loading" formatted="true">Growing keycaps… %1$d / %2$d</string>
+    <string name="footnote_colors" formatted="false">Colors are community approximations inspired by the GMK sets, not official codes.</string>
+    <string name="card_layout" formatted="true">Layout: %1$s</string>
+    <string name="card_material" formatted="true">Material: %1$s · %2$s</string>
+    <string name="card_switch" formatted="true">Switch: %1$s</string>
+    <string name="card_colorway" formatted="true">Colorway: %1$s</string>
+    <string name="card_custom" formatted="false">My own</string>
+    <string name="undone" formatted="false">Undone.</string>
+    <string name="pose_hint" formatted="false">Drag the front edge: sideways to turn, up and down to tilt.</string>
+    <string name="detail_locked" formatted="false">No turning in detail view</string>
+    <string name="solid_hint" formatted="false">Solid: one colour per cap. Paint zones or single keys on the Palette tab.</string>
+    <string name="preview_title" formatted="false">Preview</string>
+    <string name="go_palette" formatted="false">Open Palette</string>
+    <string name="empty_title" formatted="false">No schemes yet</string>
+    <string name="coach_done" formatted="false">Start</string>
+    <string name="shine_hint" formatted="false">Shine-through: legends let the backlight through. Use any palette colour.</string>
+    <string name="typing_now" formatted="false">Typing test</string>
+</resources>

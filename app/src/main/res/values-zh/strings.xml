@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" formatted="false">定制键盘工坊</string>
+    <string name="tab_colorways" formatted="false">配色</string>
+    <string name="tab_palette" formatted="false">调色盘</string>
+    <string name="tab_patterns" formatted="false">图案</string>
+    <string name="tab_material" formatted="false">材质与声音</string>
+    <string name="tab_schemes" formatted="false">方案</string>
+    <string name="tab_settings" formatted="false">设置</string>
+    <string name="scheme_untitled" formatted="false">未命名方案</string>
+    <string name="act_detail" formatted="false">看细节</string>
+    <string name="act_detail_off" formatted="false">回 1×</string>
+    <string name="act_rotate" formatted="false">转 90°</string>
+    <string name="act_undo" formatted="false">撤销</string>
+    <string name="act_redo" formatted="false">重做</string>
+    <string name="act_mute" formatted="false">静音</string>
+    <string name="act_unmute" formatted="false">取消静音</string>
+    <string name="layout_87" formatted="false">87 键</string>
+    <string name="layout_104" formatted="false">104 键</string>
+    <string name="random_set" formatted="false">随机一套</string>
+    <string name="inspired_by" formatted="true">灵感来源 %1$s</string>
+    <string name="cw_hint" formatted="false">点一张卡，整把换掉。不喜欢？再点一张。</string>
+    <string name="cw_applied" formatted="true">整套换成「%1$s」了。</string>
+    <string name="page_of" formatted="true">第 %1$d / %2$d 页</string>
+    <string name="prev" formatted="false">上一页</string>
+    <string name="next" formatted="false">下一页</string>
+    <string name="target" formatted="false">上色目标</string>
+    <string name="t_alphas" formatted="false">字母区</string>
+    <string name="t_mods" formatted="false">修饰键</string>
+    <string name="t_accents" formatted="false">点缀</string>
+    <string name="t_space" formatted="false">空格</string>
+    <string name="t_arrows" formatted="false">方向键</string>
+    <string name="t_nav" formatted="false">导航区</string>
+    <string name="t_numpad" formatted="false">数字键区</string>
+    <string name="t_frow" formatted="false">F 区</string>
+    <string name="t_numrow" formatted="false">数字行</string>
+    <string name="t_case" formatted="false">外壳</string>
+    <string name="t_all" formatted="false">全部</string>
+    <string name="t_single" formatted="false">单键</string>
+    <string name="hue" formatted="false">色相</string>
+    <string name="sat" formatted="false">饱和度</string>
+    <string name="val" formatted="false">明度</string>
+    <string name="hex" formatted="false">HEX</string>
+    <string name="apply_color" formatted="false">刷上去</string>
+    <string name="legend_color" formatted="false">字色</string>
+    <string name="legend_follow" formatted="false">跟随配色</string>
+    <string name="legend_auto" formatted="false">自动高对比</string>
+    <string name="legend_custom" formatted="false">自定</string>
+    <string name="gmk_classic" formatted="false">GMK 经典（近似色）</string>
+    <string name="used_colors" formatted="false">本方案已用</string>
+    <string name="single_hint" formatted="false">在键盘上点哪个键，哪个键上色。</string>
+    <string name="single_accent_hint" formatted="false">点键把它划进或移出点缀组。</string>
+    <string name="single_paint" formatted="false">上色</string>
+    <string name="single_accent" formatted="false">归点缀</string>
+    <string name="done" formatted="false">完成</string>
+    <string name="numpad_only104" formatted="false">数字键区只在 104 键时有</string>
+    <string name="style" formatted="false">风格</string>
+    <string name="st_solid" formatted="false">纯色</string>
+    <string name="st_gradient" formatted="false">渐变</string>
+    <string name="st_themed" formatted="false">主题图案</string>
+    <string name="st_side" formatted="false">侧刻</string>
+    <string name="st_shine" formatted="false">透光</string>
+    <string name="grad_dir" formatted="false">方向</string>
+    <string name="gd_lr" formatted="false">左→右</string>
+    <string name="gd_tb" formatted="false">上→下</string>
+    <string name="gd_diag" formatted="false">对角</string>
+    <string name="gd_radial" formatted="false">径向</string>
+    <string name="end_a" formatted="false">起点色</string>
+    <string name="end_b" formatted="false">终点色</string>
+    <string name="use_paint" formatted="false">用当前色</string>
+    <string name="th_dots" formatted="false">波点</string>
+    <string name="th_stripes" formatted="false">细条纹</string>
+    <string name="th_sakura" formatted="false">樱花</string>
+    <string name="th_pixel" formatted="false">像素</string>
+    <string name="th_stars" formatted="false">星夜</string>
+    <string name="th_camo" formatted="false">迷彩</string>
+    <string name="th_marble" formatted="false">大理石</string>
+    <string name="th_grid" formatted="false">方格纸</string>
+    <string name="th_image" formatted="false">我的图</string>
+    <string name="import_image" formatted="false">导入图片</string>
+    <string name="import_image_hint" formatted="false">把 jpg / png 放进 Android/data/io.embodit.keycapstudio/files/import/，再点导入。</string>
+    <string name="import_image_ok" formatted="false">铺上了，整板一张图。</string>
+    <string name="import_none" formatted="false">文件夹里没找到图片。</string>
+    <string name="import_failed" formatted="false">这张图读不了，换一张试试。</string>
+    <string name="side_hint" formatted="false">刻字挪到键帽前面，顶面留空。</string>
+    <string name="backlight" formatted="false">背光色</string>
+    <string name="brightness" formatted="false">亮度</string>
+    <string name="breathe" formatted="false">呼吸</string>
+    <string name="cap_material" formatted="false">键帽材质</string>
+    <string name="m_pbt" formatted="false">PBT 磨砂</string>
+    <string name="m_abs" formatted="false">ABS 亮面</string>
+    <string name="m_pc" formatted="false">透光 PC</string>
+    <string name="profile" formatted="false">轮廓</string>
+    <string name="p_oem" formatted="false">OEM</string>
+    <string name="p_cherry" formatted="false">Cherry</string>
+    <string name="case_color" formatted="false">外壳</string>
+    <string name="case_dark" formatted="false">深灰铝</string>
+    <string name="case_silver" formatted="false">银铝</string>
+    <string name="case_white" formatted="false">白</string>
+    <string name="case_custom" formatted="false">自选</string>
+    <string name="switch_type" formatted="false">轴体</string>
+    <string name="sw_linear" formatted="false">线性 · 红轴</string>
+    <string name="sw_tactile" formatted="false">段落 · 茶轴</string>
+    <string name="sw_clicky" formatted="false">咔哒 · 青轴</string>
+    <string name="sw_topre" formatted="false">静电容</string>
+    <string name="sw_silent" formatted="false">静音轴</string>
+    <string name="listen" formatted="false">听一下</string>
+    <string name="volume" formatted="false">音量</string>
+    <string name="volume_pct" formatted="true">%1$d%%</string>
+    <string name="try_typing" formatted="false">试打一句</string>
+    <string name="tt_start" formatted="false">开始</string>
+    <string name="tt_stop" formatted="false">停</string>
+    <string name="tt_progress" formatted="false">下一个亮着的键就是该按的。</string>
+    <string name="tt_done" formatted="true">打完了。用时 %1$s 秒，按了 %2$d 下。</string>
+    <string name="tt_s1" formatted="false">tian di xuan huang</string>
+    <string name="tt_s2" formatted="false">the quick brown fox</string>
+    <string name="tt_s3" formatted="false">1234567890</string>
+    <string name="scheme_name" formatted="false">方案名</string>
+    <string name="save" formatted="false">保存</string>
+    <string name="save_as" formatted="false">另存为</string>
+    <string name="saved" formatted="true">存好了，叫「%1$s」。</string>
+    <string name="saved_list" formatted="false">已存方案</string>
+    <string name="empty_list" formatted="false">还没存过方案。调好了点「保存」。</string>
+    <string name="load" formatted="false">载入</string>
+    <string name="delete" formatted="false">删除</string>
+    <string name="delete_confirm" formatted="true">删掉「%1$s」？</string>
+    <string name="cancel" formatted="false">取消</string>
+    <string name="confirm_delete" formatted="false">删掉</string>
+    <string name="loaded" formatted="true">换上「%1$s」了。</string>
+    <string name="export_card" formatted="false">导出方案卡</string>
+    <string name="export_json" formatted="false">导出 JSON</string>
+    <string name="import_json" formatted="false">导入 JSON</string>
+    <string name="exported" formatted="true">导好了：%1$s</string>
+    <string name="export_again" formatted="false">再导一张</string>
+    <string name="export_3d_hint" formatted="false">要 3D 实拍？用头显截屏（电源 + 音量下）。</string>
+    <string name="json_imported" formatted="true">导入了「%1$s」。</string>
+    <string name="json_none" formatted="false">文件夹里没找到 JSON。放进 Android/data/io.embodit.keycapstudio/files/import/ 再试。</string>
+    <string name="json_bad" formatted="false">这个 JSON 读不了，不是本应用导出的方案。</string>
+    <string name="full_list" formatted="false">存满 50 个了，先删一个。</string>
+    <string name="got_it" formatted="false">知道了</string>
+    <string name="saved_at" formatted="true">%1$s · %2$s</string>
+    <string name="language" formatted="false">语言</string>
+    <string name="lang_system" formatted="false">跟随系统</string>
+    <string name="lang_zh" formatted="false">中文</string>
+    <string name="lang_en" formatted="false">English</string>
+    <string name="default_tilt" formatted="false">默认倾角</string>
+    <string name="tilt_deg" formatted="true">%1$d°</string>
+    <string name="coach_again" formatted="false">再看一遍引导</string>
+    <string name="reopen_panel" formatted="false">重开控制面板</string>
+    <string name="reopen_hint" formatted="false">面板会在键盘旁边重新打开。</string>
+    <string name="reset" formatted="false">重置为默认</string>
+    <string name="reset_confirm" formatted="false">回到 87 键 + 奶油与玫瑰？存好的方案不动。</string>
+    <string name="reset_do" formatted="false">重置</string>
+    <string name="about" formatted="false">关于</string>
+    <string name="about_text" formatted="true">版本 %1$s。配色来自开源 Keyboard Simulator（keysim，MIT），是社区近似色，灵感来自 GMK 同名套装，不是厂商色号。键帽尺寸按 OEM / Cherry 公开几何，1u = 19.05 mm。布局用 KLE 格式自写。</string>
+    <string name="exit_app" formatted="false">退出应用</string>
+    <string name="exit_confirm" formatted="false">要走了？方案会自动存好。</string>
+    <string name="exit_do" formatted="false">退出</string>
+    <string name="open_panel" formatted="false">打开面板</string>
+    <string name="coach_1" formatted="false">看着哪个键捏一下，它就按下去。听，这是红轴。</string>
+    <string name="coach_2" formatted="false">右边面板换配色。选「单键」后，点哪个键哪个键上色。</string>
+    <string name="coach_3" formatted="false">拖键盘前沿转它，上下拖改倾角。设置里能改默认倾角。</string>
+    <string name="coach_next" formatted="false">下一张</string>
+    <string name="coach_skip" formatted="false">跳过</string>
+    <string name="coach_title" formatted="true">小提示 %1$d / 3</string>
+    <string name="loading" formatted="true">键帽正在长出来… %1$d / %2$d</string>
+    <string name="footnote_colors" formatted="false">配色是社区近似色，灵感来自 GMK 同名套装，不是厂商色号。</string>
+    <string name="card_layout" formatted="true">布局：%1$s</string>
+    <string name="card_material" formatted="true">材质：%1$s · %2$s</string>
+    <string name="card_switch" formatted="true">轴体：%1$s</string>
+    <string name="card_colorway" formatted="true">配色：%1$s</string>
+    <string name="card_custom" formatted="false">自己调的</string>
+    <string name="undone" formatted="false">撤回一步。</string>
+    <string name="pose_hint" formatted="false">拖键盘前沿：左右转，上下改倾角。</string>
+    <string name="detail_locked" formatted="false">看细节时不转</string>
+    <string name="solid_hint" formatted="false">纯色：每个键一种颜色。整区或单键上色在「调色」页。</string>
+    <string name="preview_title" formatted="false">效果示意</string>
+    <string name="go_palette" formatted="false">去调色</string>
+    <string name="empty_title" formatted="false">还没有方案</string>
+    <string name="coach_done" formatted="false">开始</string>
+    <string name="shine_hint" formatted="false">透光：字透出背光。背光色可以用调色盘里的颜色。</string>
+    <string name="typing_now" formatted="false">试打中</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <!-- Debug builds only: QA hooks over adb, see AGENTS.md for the command list. -->
+        <receiver
+            android:name=".debug.DebugCommandReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="io.embodit.keycapstudio.DEBUG" />
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

@@ -1,0 +1,391 @@
+[
+{
+"id": "olivia",
+"zh": "奶油与玫瑰",
+"en": "Olivia",
+"inspiredBy": "GMK Olivia",
+"base": [
+"#e1dbd1",
+"#2B2B2B"
+],
+"mods": [
+"#2B2B2B",
+"#f1beb0"
+],
+"accent": [
+"#f1beb0",
+"#2B2B2B"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "8008",
+"zh": "雾蓝与樱桃",
+"en": "8008",
+"inspiredBy": "GMK 8008",
+"base": [
+"#747e92",
+"#0e1415"
+],
+"mods": [
+"#2b313f",
+"#da526e"
+],
+"accent": [
+"#da526e",
+"#0e1415"
+],
+"override": {
+"KC_SPC": "base",
+"KC_ENT": "accent",
+"KC_ESC": "accent",
+"F5-F8": "mods"
+}
+},
+{
+"id": "botanical",
+"zh": "温室",
+"en": "Botanical",
+"inspiredBy": "GMK Botanical",
+"base": [
+"#d7dce0",
+"#536361"
+],
+"mods": [
+"#536361",
+"#93b1b1"
+],
+"accent": [
+"#93b1b1",
+"#536361"
+],
+"override": {
+"KC_SPC": "base",
+"KC_ENT": "accent",
+"KC_PENT": "accent",
+"KC_ESC": "accent",
+"F5-F8": "mods"
+}
+},
+{
+"id": "laser",
+"zh": "霓虹夜",
+"en": "Laser",
+"inspiredBy": "GMK Laser",
+"base": [
+"#311c7a",
+"#29a3d1"
+],
+"mods": [
+"#28234c",
+"#ce0244"
+],
+"accent": [
+"#ce0244",
+"#28234c"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "red_samurai",
+"zh": "赤甲",
+"en": "Red Samurai",
+"inspiredBy": "GMK Red Samurai",
+"base": [
+"#651C32",
+"#B9975B"
+],
+"mods": [
+"#25282A",
+"#B9975B"
+],
+"accent": [
+"#B9975B",
+"#651C32"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "nautilus",
+"zh": "深海",
+"en": "Nautilus",
+"inspiredBy": "GMK Nautilus",
+"base": [
+"#1B365D",
+"#00a4a9"
+],
+"mods": [
+"#202A44",
+"#e5a100"
+],
+"accent": [
+"#e5a100",
+"#202A44"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "bento",
+"zh": "便当盒",
+"en": "Bento",
+"inspiredBy": "GMK Bento",
+"base": [
+"#eee2d0",
+"#367f9a"
+],
+"mods": [
+"#367f9a",
+"#fb7279"
+],
+"accent": [
+"#fb7279",
+"#eee2d0"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "camping",
+"zh": "露营地",
+"en": "Camping",
+"inspiredBy": "GMK Camping",
+"base": [
+"#eee2d0",
+"#5b7c5b"
+],
+"mods": [
+"#5b7c5b",
+"#eee2d0"
+],
+"accent": [
+"#733636",
+"#eee2d0"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "serika",
+"zh": "柠檬黄",
+"en": "Serika",
+"inspiredBy": "GMK Serika",
+"base": [
+"#e2e4ce",
+"#3f4343"
+],
+"mods": [
+"#eec729",
+"#3f4343"
+],
+"accent": [
+"#3f4343",
+"#e2e4ce"
+],
+"override": {
+"KC_SPC": "base",
+"F5-F8": "mods",
+"KC_ESC": "accent",
+"KC_ENT": "accent"
+}
+},
+{
+"id": "carbon",
+"zh": "橘子炭",
+"en": "Carbon",
+"inspiredBy": "GMK Carbon",
+"base": [
+"#e3d9c6",
+"#575d5e"
+],
+"mods": [
+"#575d5e",
+"#ed6b21"
+],
+"accent": [
+"#ed6b21",
+"#575d5e"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "modern_dolch",
+"zh": "摩登灰",
+"en": "Modern Dolch",
+"inspiredBy": "GMK Modern Dolch",
+"base": [
+"#777b7e",
+"#e7e7e8"
+],
+"mods": [
+"#505356",
+"#e7e7e8"
+],
+"accent": [
+"#79d1c7",
+"#e7e7e8"
+],
+"accent2": [
+"#ac5160",
+"#e7e7e8"
+],
+"override": {
+"KC_SPC": "base",
+"KC_ENT": "accent2",
+"KC_PENT": "accent",
+"KC_ESC": "accent",
+"F5-F8": "mods"
+}
+},
+{
+"id": "mizu",
+"zh": "水色",
+"en": "Mizu",
+"inspiredBy": "GMK Mizu",
+"base": [
+"#b7d8eb",
+"#233746"
+],
+"mods": [
+"#233746",
+"#f8f7f3"
+],
+"accent": [
+"#f8f7f3",
+"#233746"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "striker",
+"zh": "球衣蓝",
+"en": "Striker",
+"inspiredBy": "GMK Striker",
+"base": [
+"#165495",
+"#f7f2ea"
+],
+"mods": [
+"#165495",
+"#f7f2ea"
+],
+"accent": [
+"#32445f",
+"#f7f2ea"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_PENT": "accent",
+"KC_SPC": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "honeywell",
+"zh": "老电脑",
+"en": "Honeywell",
+"inspiredBy": "GMK Honeywell",
+"base": [
+"#e1dbd1",
+"#6b7578"
+],
+"mods": [
+"#6b7578",
+"#e1dbd1"
+],
+"accent": [
+"#b5240c",
+"#e1dbd1"
+],
+"override": {
+"KC_ENT": "accent",
+"KC_ESC": "accent"
+}
+},
+{
+"id": "metropolis",
+"zh": "霓虹都会",
+"en": "Metropolis",
+"inspiredBy": "GMK Metropolis",
+"base": [
+"#302d36",
+"#40d3b9"
+],
+"mods": [
+"#302d36",
+"#fbc757"
+],
+"accent": [
+"#302d36",
+"#d54039"
+],
+"accent2": [
+"#fbc757",
+"#302d36"
+],
+"accent3": [
+"#d54039",
+"#302d36"
+],
+"accent4": [
+"#40d3b9",
+"#302d36"
+],
+"override": {
+"KC_ENT": "accent4",
+"KC_ESC": "accent2",
+"KC_LEFT": "accent3",
+"KC_RGHT": "accent3",
+"KC_UP": "accent3",
+"KC_DOWN": "accent3",
+"KC_LSFT": "accent",
+"KC_RSFT": "accent",
+"KC_LCTL": "accent",
+"KC_RCTL": "accent",
+"KC_LALT": "accent",
+"KC_RALT": "accent",
+"KC_LGUI": "accent",
+"KC_RGUI": "accent"
+}
+},
+{
+"id": "wob",
+"zh": "黑底白字",
+"en": "White on Black",
+"inspiredBy": "GMK White-on-Black",
+"base": [
+"#222222",
+"#FFFFFF"
+],
+"mods": [
+"#222222",
+"#FFFFFF"
+],
+"accent": [
+"#222222",
+"#FFFFFF"
+],
+"override": {}
+}
+]

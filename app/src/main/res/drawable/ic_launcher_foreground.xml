@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- One Cherry R3 keycap in a 3/4 view (design assets.visual.icon): cream top, rose sides, on the app's deep teal. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- soft shadow -->
+    <path android:fillColor="#33000000" android:pathData="M28,70 L54,82 L82,68 L82,72 L54,86 L28,74 Z"/>
+    <!-- left side face -->
+    <path android:fillColor="#E9A898" android:pathData="M26,48 L54,61 L54,82 L28,70 Z"/>
+    <!-- right side face -->
+    <path android:fillColor="#F1BEB0" android:pathData="M54,61 L82,47 L80,68 L54,82 Z"/>
+    <!-- top face, a little inset like a sculpted cap -->
+    <path android:fillColor="#E1DBD1" android:pathData="M33,42 L55,31 L77,41 L54,53 Z"/>
+    <!-- top rim between top and sides -->
+    <path android:fillColor="#F4EEE4" android:pathData="M26,48 L33,42 L54,53 L54,61 Z"/>
+    <path android:fillColor="#D9CFC1" android:pathData="M54,61 L54,53 L77,41 L82,47 Z"/>
+    <path android:fillColor="#EFE8DC" android:pathData="M26,48 L33,42 L55,31 L48,28 Z"/>
+    <path android:fillColor="#E6DED1" android:pathData="M55,31 L77,41 L82,47 L62,28 Z"/>
+    <path android:fillColor="#EFE8DC" android:pathData="M48,28 L62,28 L55,31 Z"/>
+</vector>
